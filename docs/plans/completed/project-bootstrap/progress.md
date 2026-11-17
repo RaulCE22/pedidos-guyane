@@ -12,6 +12,7 @@ Completado en la rama `bootstrap/project-foundation`.
 - Se documentaron la visión, el roadmap, los requisitos y el modelo conceptual.
 - Se registraron las decisiones aceptadas sobre arquitectura y límites del pedido.
 - Se registraron las seis cuestiones abiertas que requieren confirmación del propietario del producto.
+- Se adaptó la hoja de ruta a la convención de lectura de Agentic Workbench, con objetivos y referencias explícitas.
 
 ## Verificación
 

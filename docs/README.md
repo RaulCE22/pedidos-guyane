@@ -32,8 +32,12 @@ Esta carpeta es la fuente de verdad de producto e ingeniería. Mantén los docum
 ## Planes
 
 - [Índice de planes](plans/README.md)
-- [Bootstrap del proyecto](plans/active/project-bootstrap/plan.md)
-- [Progreso del bootstrap](plans/active/project-bootstrap/progress.md)
+- [Bootstrap completado](plans/completed/project-bootstrap/plan.md)
+- [V0.1 — Autenticación y perfiles](plans/active/v0-1-authentication-profiles/plan.md)
+- [V0.2 — Comercios y catálogo](plans/active/v0-2-merchants-catalog/plan.md)
+- [V0.3 — Campañas](plans/active/v0-3-campaigns/plan.md)
+- [V0.4 — Pedidos](plans/active/v0-4-orders/plan.md)
+- [V0.5 — Historial y piloto](plans/active/v0-5-history-pilot/plan.md)
 
 ## Calidad
 
